@@ -1,4 +1,4 @@
-# Schnapsen platform - Project Intelligent Systems 2022-2023
+# Santase platform - Project Intelligent Systems 2022-2023
 
 ## Getting started
 
