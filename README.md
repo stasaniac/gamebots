@@ -2,13 +2,13 @@
 
 ## Getting started
 
-This is the improved platform for the schnapsen card game. To get to know the concept of the game, please visit
-[this web page](https://www.pagat.com/marriage/schnaps.html).
+This is the improved platform for the santase card game. To get to know the concept of the game, please visit
+[this web page]([https://belot.bg/en/rules-santase/]).
 
 
 To use the platform, your python version must be at least 3.9, we suggest installing conda an using an environment.
 
-To get started, install the schnapsen package and itse dependencies in editable mode by running:
+To get started, install the santase package and itse dependencies in editable mode by running:
 
 ```sh
 unzip santase-dev.zip
@@ -65,7 +65,7 @@ for more details.
 
 ## Implementing more bots
 
-You will find bot examples in the [`src/schnapsen/bots`](./src/schnapsen/bots) folder.
+You will find bot examples in the [`src/santase/bots`](./src/santase/bots) folder.
 You can look at the example_bot.py file for various methods provided to your bot.
 
 
@@ -121,5 +121,5 @@ A pregenerated version of the documentation can be found int he doc folder. It c
 
 ```bash
 pip install pdoc
-pdoc --html src/schnapsen executables/ -o doc/
+pdoc --html src/santase executables/ -o doc/
 ```
